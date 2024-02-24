@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rupesh00mahat.github.io/Sign-up-form/static/css/main.fae19524.css",
+    "main.js": "/rupesh00mahat.github.io/Sign-up-form/static/js/main.33d9df6a.js",
+    "index.html": "/rupesh00mahat.github.io/Sign-up-form/index.html",
+    "main.fae19524.css.map": "/rupesh00mahat.github.io/Sign-up-form/static/css/main.fae19524.css.map",
+    "main.33d9df6a.js.map": "/rupesh00mahat.github.io/Sign-up-form/static/js/main.33d9df6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae19524.css",
+    "static/js/main.33d9df6a.js"
+  ]
+}
